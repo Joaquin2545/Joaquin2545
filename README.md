@@ -2,7 +2,7 @@
 
 ### 📊 Analista de Datos | 📈 Comercial & Inversiones | 💻 Entusiasta del Análisis Técnico
 
-Soy un analista de datos con experiencia en SQL Server, Python, Power BI, y Excel. Me apasiona transformar datos en información valiosa para la toma de decisiones. Además, tengo un fuerte interés en el área comercial y en el análisis de inversiones a corto plazo en el S&P 500.
+Analista de datos con experiencia en SQL Server, Python, Power BI, y Excel. Me apasiona transformar datos en información valiosa para la toma de decisiones. Además, tengo un fuerte interés en el área comercial y en el análisis de inversiones a corto plazo en el S&P 500.
 
 ---
 
