@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy Joaquin Sánchez
 
 ### 📊 Analista de Datos | 📈 Comercial & Inversiones | 💻 Entusiasta del Análisis Técnico
 
