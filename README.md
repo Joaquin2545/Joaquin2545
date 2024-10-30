@@ -26,11 +26,11 @@ Analista de datos con experiencia en SQL Server, Python, Power BI, y Excel. Me a
 
 ### 📈 Proyectos Destacados:
 
-1. **Análisis del COVID-19 en América Latina**  
-   Exploración y visualización de datos para entender la gestión de la pandemia, identificar oportunidades de negocio y expandir servicios.
+G4_inventory
+Desarrollo de un sistema de gestión de inventarios que permite optimizar la administración de stock y mejorar la toma de decisiones en el área de compras.
 
-2. **Dashboard de Ventas y Compras**  
-   Creación de un tablero en Power BI para la optimización de inventarios y ventas de la empresa [Climax](#).
+sp500
+Análisis de inversiones en el índice S&P 500, enfocándose en estrategias a corto plazo y evaluación de riesgos y oportunidades en el mercado financiero.
 
 ---
 
