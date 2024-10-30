@@ -36,7 +36,7 @@ Análisis de inversiones en el índice S&P 500, enfocándose en estrategias a co
 
 ### 📫 Cómo contactarme
 - jassanchez145@gmail.com
-
+-304 33355711
 ---
 
 Si quieres ver mi trabajo más a detalle, ¡no dudes en explorar mis repositorios! 🚀
